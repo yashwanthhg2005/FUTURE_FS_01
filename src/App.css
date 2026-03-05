@@ -1,0 +1,14 @@
+.App {
+  text-align: left;
+}
+
+/* Base styles are in index.css */
+
+.fade-in {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}
+
+main {
+  min-height: 100vh;
+}

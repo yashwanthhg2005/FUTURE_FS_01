@@ -1,0 +1,41 @@
+.resume-section {
+    background-color: var(--bg-color);
+    text-align: center;
+    padding: 8rem 0;
+}
+
+.resume-content {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.resume-icon-wrapper {
+    background-color: rgba(88, 166, 255, 0.1);
+    padding: 1.5rem;
+    border-radius: 50%;
+    margin-bottom: 2rem;
+    display: inline-flex;
+}
+
+.resume-icon {
+    color: var(--accent-color);
+}
+
+.resume-desc {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    margin-bottom: 2.5rem;
+    line-height: 1.6;
+}
+
+.resume-btn {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+.btn-icon-left {
+    margin-right: 0.5rem;
+}
